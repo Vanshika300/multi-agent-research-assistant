@@ -35,7 +35,6 @@ python-dotenv: For secure management of API keys.
 json: For structured communication (JSON parsing) between agents, especially for the Planner.
 
 📸 Screenshots
-(Note: Replace these placeholders with actual screenshots of your running application, showing different stages of the process. If you place them in a screenshots folder, update the paths like screenshots/your_screenshot_name.png)
 
 Main Interface & Topic Input:
 A screenshot showing the initial application interface with the topic input field.
@@ -93,6 +92,7 @@ streamlit run app.py
 This command will open the application in your web browser, usually at http://localhost:8501.
 
 📧 Contact
+
 Feel free to reach out if you have any questions or feedback!
 
 Email: vanshikashukla065@gmail.com
