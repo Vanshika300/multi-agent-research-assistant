@@ -1,7 +1,9 @@
 🤖 Multi-Agent Research Assistant
+
 A sophisticated Streamlit web application that demonstrates a multi-agent AI system for automating research and report generation. This project orchestrates a team of specialized AI agents (Planner, Researcher, and Writer) powered by Google Gemini to collaboratively produce comprehensive reports on any given topic.
 
 ✨ Features
+
 Multi-Agent Architecture: Implements distinct AI agents with specific roles:
 
 Planner Agent: Deconstructs a broad topic into a detailed, step-by-step research plan (a series of questions).
@@ -21,6 +23,7 @@ Generative AI Core: Leverages Google Gemini 2.0 Flash for all AI-driven tasks, d
 User-Friendly Interface: Built with Streamlit for an intuitive and engaging user experience.
 
 🚀 Technologies Used
+
 Python
 
 Streamlit: For building the interactive web interface.
